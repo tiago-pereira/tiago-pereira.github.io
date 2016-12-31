@@ -1,2 +1,4 @@
 name: Tiago Pereira, tpsilva
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
